@@ -11,7 +11,7 @@ Create an API Library Study Case for [SMK Telkom Malang](https://smktelkom-mlg.s
     $ git clone https://github.com/nuflakbrr/library-api.git
 ```
 
-3. Run the command below.
+3. Open the project folder and run the command below.
 
 ```
     $ npm install       ## for install all depedencies in this project
