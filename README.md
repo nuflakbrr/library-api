@@ -13,15 +13,15 @@ Create an API Library Study Case for [SMK Telkom Malang](https://smktelkom-mlg.s
 2. Run the command below if you don't have `nodemon`.
 
 ```
-    $ npm install -g nodemon 
+    $ npm install -g nodemon        ## for global instalation
 
-    #or
+    # or
 
-    $ npm install -D nodemon
+    $ npm install -D nodemon        ## for devDepedencies instalation
 
-    #or
+    # or
 
-    $ npm install nodemon
+    $ npm install nodemon       ## for regular instalation
 ```
 
 3. Copy the line of code from file `.env.example`.
@@ -35,13 +35,13 @@ Create an API Library Study Case for [SMK Telkom Malang](https://smktelkom-mlg.s
 ```
     $ node run server
 
-    #or
+    # or
 
     $ nodemon index.js
 
-    #or
+    # or
 
-    $node index.js
+    $ node index.js
 ```
 
 10. then you can test this API using [Postman](https://www.postman.com/) app or any other API test app.
