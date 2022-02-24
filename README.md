@@ -7,7 +7,7 @@ Create an API Library Study Case for [SMK Telkom Malang](https://smktelkom-mlg.s
 1. Run the command below.
 
 ```
-    $ npm install
+    $ npm install       ## for install all depedencies in this project
 ```
 
 2. Run the command below if you don't have `nodemon`.
